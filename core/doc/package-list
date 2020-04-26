@@ -1,7 +1,0 @@
-bomberman.core
-bomberman.core.graphics
-bomberman.core.logic
-bomberman.core.logic.enemy
-bomberman.core.logic.powerUp
-bomberman.core.ui
-bomberman.core.util
